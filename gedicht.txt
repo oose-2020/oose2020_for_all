@@ -1,0 +1,19 @@
+Schreib unterhalb dieser Anleitung eine Zeile hinzu, speichere die Datei 
+und dann
+ 1. Markiere den neuen Dateiinhalt als zu comitten:
+    - git add gedicht.txt
+ 2. Schau was git sich nun gemerkt hat:
+    - git status
+ 3. Füge eine weitere Zeile zu unserem SWT-Gedicht hinzu und speichere es.
+ 4. Schau was git NUN sagt:
+    - git status
+ 5. Comitte:
+    - git commit
+ 6. Teste wieder mit status, was git jetzt sagt.  
+ 7. Finde heraus, wie du ALLE durchgeführten Änderungen comitten kannst
+ 
+DIE DATEI DARF NICHT GELÖSCHT WERDEN!! ANDERNFALLS ERHÄLT DER-/DIEJENIGE KEINE PUNKTE!
+ 
+ ___________________________________________________________________
+ 
+ Los geht's! :-) 
