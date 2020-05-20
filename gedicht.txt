@@ -22,13 +22,13 @@ Hello World :)
 Goodbye World :)
 -------------
 
-english Gedicht 1: ----
+english Gedicht 1: ---- Author: All
 The greatest line ever said was: 
 This squid is so undercooked i can still
 hear it telling spongebob to f*ck off
 -----------------------
 
-Biligiual Gedicht 2: ----
+Biligiual Gedicht 2: ---- Author: Gespräch
 Let us also not forget: 
 Da
 Wo?
@@ -45,7 +45,7 @@ keine verbindung von hier oben.
 da hilft nur:
 --------------------------
 
-Maschienen Gedicht 3: ----
+Maschienen Gedicht 3: ---- Author: Grandelgruppe
 1  Das Leben mit Maschienen, 
 2  Die uns unerwegt dienen 
 3  Ist nicht immer leicht.
