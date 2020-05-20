@@ -66,12 +66,4 @@ Maschienen Gedicht 3: ---- Author: Grandelgruppe
 13 wirst du selbst zur ...
  ...
 14 und AUS.
-<<<<<<< Updated upstream
  ---------------------------
-=======
- .
-
-Roses are red, violets are blue,
-Grandel sucks
-and so do you
->>>>>>> Stashed changes
