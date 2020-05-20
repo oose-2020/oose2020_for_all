@@ -19,3 +19,4 @@ DIE DATEI DARF NICHT GELÖSCHT WERDEN!! ANDERNFALLS ERHÄLT DER-/DIEJENIGE KEINE
  Los geht's! :-) 
 
 Hello World :)
+Goodbye World :)
