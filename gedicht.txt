@@ -65,6 +65,8 @@ Maschienen Gedicht 3: ---- Author: Grandelgruppe
 12 Bevormundet dich die Maschine
 13 wirst du selbst zur
 14 Mahagony-Tischplatte
+15 oder zur Mahogany-Duftkerze
+
  ...
 15 und AUS.
  ---------------------------
