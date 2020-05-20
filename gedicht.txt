@@ -64,6 +64,7 @@ Maschienen Gedicht 3: ---- Author: Grandelgruppe
 12 Oder geben wir auf,
 12 Bevormutet dich die Maschine
 13 wirst du selbst zur ...
+14 Flaschenpost
  ...
-14 und AUS.
+15 und AUS.
  ---------------------------
