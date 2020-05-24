@@ -1,4 +1,4 @@
-Schreib unterhalb dieser Anleitung eine Zeile hinzu, speichere die Datei 
+﻿Schreib unterhalb dieser Anleitung eine Zeile hinzu, speichere die Datei 
 und dann
  1. Markiere den neuen Dateiinhalt als zu comitten:
     - git add gedicht.txt
@@ -87,3 +87,8 @@ Two households both alike in dignity
 
 In fair Verona where we lay our scene
 Lorem Ipsum weil ich nicht kreativ bin
+---------------------------
+roses are red,
+violets are blue
+unexpected '{'
+on line 42
